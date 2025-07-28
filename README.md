@@ -1,7 +1,7 @@
 # Detector de Objetos con Umbralización HSV
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge&logo=opencv)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.10-green?style=for-the-badge&logo=opencv)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
 ## Descripción
@@ -31,11 +31,10 @@ Asegúrate de tener instalados los siguientes componentes:
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
-    cd nombre-del-repositorio
-    ```
+    git clone https://github.com/Patny1/hsv_object_detector
+    cd hsv_object_detector
 
-    *(**Nota**: Reemplaza `tu-usuario/nombre-del-repositorio` con la URL real de tu repositorio de GitHub.)*
+    ```
 
 2.  **Instala las dependencias:**
 
