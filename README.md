@@ -31,11 +31,10 @@ Asegúrate de tener instalados los siguientes componentes:
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
-    cd nombre-del-repositorio
-    ```
+    git clone https://github.com/Patny1/hsv_object_detector
+    cd hsv_object_detector
 
-    *(**Nota**: Reemplaza `tu-usuario/nombre-del-repositorio` con la URL real de tu repositorio de GitHub.)*
+    ```
 
 2.  **Instala las dependencias:**
 
