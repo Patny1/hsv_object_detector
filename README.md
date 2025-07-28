@@ -1,7 +1,7 @@
 # Detector de Objetos con Umbralización HSV
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge&logo=opencv)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.10-green?style=for-the-badge&logo=opencv)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 
 ## Descripción
